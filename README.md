@@ -1,1 +1,3 @@
-# Waveshare-ESP32-S3-Touch-AMOLED-2.06
+# Collection if stuff for Waveshare ESP32 S3 Touch AMOLED 2.06
+
+- ### soundrecorder - A test sketch that checks the built-in microphone of the watch. It records audio for 30 seconds and then saves it as a WAV file to the SD card.
